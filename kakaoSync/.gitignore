@@ -1,0 +1,17 @@
+
+.web
+pynecone.db
+apiKey.txt
+*.py[cod]
+__pycache__/
+
+
+
+
+
+
+
+
+
+
+
