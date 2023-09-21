@@ -1,0 +1,11 @@
+Your job is to read the <message>, Answer the question with <context> very detailed in Korean.
+
+<message>
+{user_message}
+</message>
+
+<related_documents>
+{related_documents}
+</related_documents>
+
+Answer:
